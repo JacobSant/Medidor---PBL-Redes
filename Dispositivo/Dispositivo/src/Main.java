@@ -55,7 +55,6 @@ public class Main {
                     int value = scanner.nextInt();
                     fixedMeter = value;
                     fixed = true;
-                    System.out.println(pause + " " +setMeter + " " + fixed + " " +fixedMeter);
                 }
             }
         }
