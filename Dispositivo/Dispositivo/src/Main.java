@@ -1,9 +1,4 @@
 import java.io.IOException;
-import java.net.Socket;
-import java.util.Date;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
